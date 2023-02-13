@@ -6,8 +6,8 @@ int main()
 {
 	fork();
 	fork();
-  fork();
-  fork();
+        fork();
+        fork();
 
     printf("PID \n");
     
